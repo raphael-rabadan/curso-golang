@@ -1,2 +1,4 @@
 github.com/raphael-rabadan/goarea v0.0.0-20210309165733-09d38d079ef3 h1:02lqcLpbDfXia4Au1A3Q71IMY8BnvwbFlv79L2OG4hY=
 github.com/raphael-rabadan/goarea v0.0.0-20210309165733-09d38d079ef3/go.mod h1:O5MVXxRmbY4bBarNc9rDzmbmiOVie0euu2zEqh/Mbd4=
+github.com/raphael-rabadan/gohtml v0.0.0-20210310235026-163e8daaa69d h1:qmzgFokYZM1Ny+PTINN0Nu/2xcWc1AIaTmogbqOCta0=
+github.com/raphael-rabadan/gohtml v0.0.0-20210310235026-163e8daaa69d/go.mod h1:nJiCA11X9QoFrewFJebYhZXaxZAqk9kTPXtQpN9Yklw=
