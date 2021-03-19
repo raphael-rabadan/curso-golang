@@ -5,6 +5,7 @@ import "testing"
 const erroPadrao = "Valor esperado espero %v, mas o resultado encontrado foi %v."
 
 func TestMedia(t *testing.T) {
+	t.Parallel()
 	const valorEsperado float64 = 7.28
 	valor := Media(7.2, 9.9, 6.1, 5.9)
 
